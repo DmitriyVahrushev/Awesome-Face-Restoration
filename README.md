@@ -1,2 +1,19 @@
-# Awesome-Face-Restoration
-A curated list of recources (papers, repositories etc.) about blind face restoration / face hallucination methods.
+![illustation about face restoration](images/gfp_gan_img.jpg)
+
+
+# Awesome Face Restoration
+A curated list of recources (papers, repositories etc.) about face restoration / face hallucination methods. Feel free to contribute to this list.
+
+# What is face restoration and face hallucination?
+Face hallucination refers to any superresolution technique which applies specifically to faces. It comprises techniques which take noisy or low-resolution facial images, and convert them into high-resolution images using knowledge about typical facial features. [From Wikipedia.](https://en.wikipedia.org/wiki/Face_hallucination)
+
+# 2021 Papers
+| Model name | Paper | Code
+| ----------- | ----------- | ----------- |
+| GFPGAN | [Towards Real-World Blind Face Restoration with Generative Facial Prior](https://arxiv.org/abs/2101.04061) | https://github.com/TencentARC/GFPGAN
+| GPEN | [GAN Prior Embedded Network for Blind Face Restoration in the Wild](https://arxiv.org/abs/2105.06070) | https://github.com/yangxy/GPEN
+
+# Similiar resources
+* [Face-Hallucination-Benchmark](https://github.com/junjun-jiang/Face-Hallucination-Benchmark)
+
+Image source: [Towards Real-World Blind Face Restoration with Generative Facial Prior](https://arxiv.org/abs/2101.04061)
