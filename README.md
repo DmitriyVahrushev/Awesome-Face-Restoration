@@ -21,6 +21,25 @@ Face hallucination refers to any super-resolution technique which applies specif
 | PULSE | [PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models](https://arxiv.org/pdf/2003.03808.pdf) | https://github.com/adamian98/pulse
 | HiFaceGAN | [HiFaceGAN: Face Renovation via Collaborative Suppression and Replenishment](https://arxiv.org/abs/2005.05005) | https://github.com/Lotayou/Face-Renovation
 
+
+## 2018 Papers
+| Model name | Paper | Code
+| ----------- | ----------- | ----------- |
+| GFRNet | [Learning Warped Guidance for Blind Face Restoration](https://arxiv.org/abs/1804.04829) | https://github.com/csxmli2016/GFRNet
+
+
+## 2017 Papers
+| Model name | Paper | Code
+| ----------- | ----------- | ----------- |
+| Super-FAN | [Super-FAN: Integrated facial landmark localization and super-resolution of real-world low resolution faces in arbitrary poses with GANs](https://openaccess.thecvf.com/content_cvpr_2018/papers/Bulat_Super-FAN_Integrated_Facial_CVPR_2018_paper.pdf) | https://github.com/jzijin/Super-FAN
+
+
+# Paperswithcode links
+* [Image super-resolution](https://paperswithcode.com/task/image-super-resolution)
+* [Face hallucination](https://paperswithcode.com/task/face-hallucination)
+* [Blind face restoration](https://paperswithcode.com/task/blind-face-restoration)
+
+
 # Similiar resources
 * [Face-Hallucination-Benchmark](https://github.com/junjun-jiang/Face-Hallucination-Benchmark)
 
