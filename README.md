@@ -22,6 +22,12 @@ Face hallucination refers to any super-resolution technique which applies specif
 | HiFaceGAN | [HiFaceGAN: Face Renovation via Collaborative Suppression and Replenishment](https://arxiv.org/abs/2005.05005) | https://github.com/Lotayou/Face-Renovation
 
 
+## 2019 Papers
+| Model name | Paper | Code
+| ----------- | ----------- | ----------- |
+| GWAInet | [Exemplar Guided Face Image Super-Resolution without Facial Landmarks](https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Dogan_Exemplar_Guided_Face_Image_Super-Resolution_Without_Facial_Landmarks_CVPRW_2019_paper.pdf) | https://github.com/berkdogan2/GWAInet
+
+
 ## 2018 Papers
 | Model name | Paper | Code
 | ----------- | ----------- | ----------- |
