@@ -13,6 +13,7 @@ Face hallucination refers to any super-resolution technique which applies specif
 | GFPGAN | [Towards Real-World Blind Face Restoration with Generative Facial Prior](https://arxiv.org/abs/2101.04061) | https://github.com/TencentARC/GFPGAN
 | GPEN | [GAN Prior Embedded Network for Blind Face Restoration in the Wild](https://arxiv.org/abs/2105.06070) | https://github.com/yangxy/GPEN
 | PSFR-GAN | [Progressive Semantic-Aware Style Transformation for Blind Face Restoration](https://arxiv.org/abs/2009.08709) | https://github.com/chaofengc/PSFRGAN
+| pixel2style2pixel (pSp) | [Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation](https://arxiv.org/abs/2008.00951) | https://github.com/eladrich/pixel2style2pixel
 
 ## 2020 Papers
 | Model name | Paper | Code
