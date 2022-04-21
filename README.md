@@ -20,7 +20,7 @@ Face hallucination refers to any super-resolution technique which applies specif
 | DFDNet | [Blind Face Restoration via Deep Multi-scale Component Dictionaries](https://arxiv.org/pdf/2008.00418.pdf) | https://github.com/csxmli2016/DFDNet 
 | PULSE | [PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models](https://arxiv.org/pdf/2003.03808.pdf) | https://github.com/adamian98/pulse
 | HiFaceGAN | [HiFaceGAN: Face Renovation via Collaborative Suppression and Replenishment](https://arxiv.org/abs/2005.05005) | https://github.com/Lotayou/Face-Renovation
-
+| UMSN-Face-Deblurring | [Deblurring Face Images using Uncertainty Guided Multi-Stream Semantic Networks](https://arxiv.org/pdf/1907.13106.pdf) | https://github.com/rajeevyasarla/UMSN-Face-Deblurring
 
 ## 2019 Papers
 | Model name | Paper | Code
