@@ -5,7 +5,7 @@
 A curated list of recources (papers, repositories etc.) about face restoration / face hallucination methods / face super-resolution methods. Feel free to contribute to this list.
 
 # What is face restoration and face hallucination?
-Face hallucination refers to any super-resolution technique which applies specifically to faces. It comprises techniques which take noisy or low-resolution facial images, and convert them into high-resolution images using knowledge about typical facial features. [Fhttps://github.com/jianzhangcs/paninirom Wikipedia.](https://en.wikipedia.org/wiki/Face_hallucination)
+Face hallucination refers to any super-resolution technique which applies specifically to faces. It comprises techniques which take noisy or low-resolution facial images, and convert them into high-resolution images using knowledge about typical facial features. [From Wikipedia.](https://en.wikipedia.org/wiki/Face_hallucination)
 
 
 ## 2022 Papers
