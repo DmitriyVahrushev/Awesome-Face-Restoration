@@ -11,6 +11,7 @@ Face hallucination refers to any super-resolution technique which applies specif
 ## 2022 Papers
 | Model name | Paper | Code
 | ----------- | ----------- | ----------- |
+| VQFR | [VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder](https://arxiv.org/abs/2205.06803) | https://github.com/TencentARC/VQFR
 | Panini-Net | [Panini-Net: GAN Prior based Degradation-Aware Feature Interpolation for Face Restoration](https://arxiv.org/pdf/2203.08444.pdf) | https://github.com/jianzhangcs/panini
 
 ## 2021 Papers
