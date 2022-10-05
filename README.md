@@ -48,7 +48,7 @@ Face hallucination refers to any super-resolution technique which applies specif
 | Model name | Paper | Code
 | ----------- | ----------- | ----------- |
 | Super-FAN | [Super-FAN: Integrated facial landmark localization and super-resolution of real-world low resolution faces in arbitrary poses with GANs](https://openaccess.thecvf.com/content_cvpr_2018/papers/Bulat_Super-FAN_Integrated_Facial_CVPR_2018_paper.pdf) | https://github.com/jzijin/Super-FAN
-
+| Wavelet-srnet | [Wavelet-srnet: A wavelet-based cnn for multi-scale face super resolution](https://openaccess.thecvf.com/content_iccv_2017/html/Huang_Wavelet-SRNet_A_Wavelet-Based_ICCV_2017_paper.html) | https://github.com/hhb072/WaveletSRNet
 
 # Paperswithcode links
 * [Image super-resolution](https://paperswithcode.com/task/image-super-resolution)
