@@ -11,6 +11,7 @@ Face hallucination refers to any super-resolution technique which applies specif
 ## 2022 Papers
 | Model name | Paper | Code
 | ----------- | ----------- | ----------- |
+| CodeFormer | [Towards Robust Blind Face Restoration with Codebook Lookup Transformer](https://arxiv.org/abs/2206.11253) | https://github.com/sczhou/CodeFormer
 | GCFSR | [GCFSR: a Generative and Controllable Face Super Resolution Method Without Facial and GAN Priors](https://arxiv.org/abs/2203.07319) | https://github.com/hejingwenhejingwen/GCFSR
 | VQFR | [VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder](https://arxiv.org/abs/2205.06803) | https://github.com/TencentARC/VQFR
 | Panini-Net | [Panini-Net: GAN Prior based Degradation-Aware Feature Interpolation for Face Restoration](https://arxiv.org/pdf/2203.08444.pdf) | https://github.com/jianzhangcs/panini
